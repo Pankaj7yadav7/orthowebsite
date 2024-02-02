@@ -1012,7 +1012,7 @@ body {
 }
 
 .client_section .box .img-box img {
-  width: 100%;
+  width: 100px;
   border-radius: 100%;
   border: 7px solid rgba(255, 255, 255, 0.45);
 }
@@ -1028,7 +1028,7 @@ body {
 }
 
 .client_section .box .detail-box .name img {
-  width: 25px;
+  width: 40px;
   margin-bottom: 5px;
 }
 
