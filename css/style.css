@@ -799,6 +799,9 @@ body {
   
 }
 
+
+
+
 .products-content{
   width: 33%;
   height: auto;
@@ -1065,7 +1068,7 @@ body {
 .client_section .carousel-control-prev:hover,
 .client_section .carousel-control-next:hover {
   background-color: #1fab89;
-  border-radius: 20px 30px;
+  border-radius: 2px 3px;
 }
 
 .client_section .carousel-control-next {
